@@ -24,3 +24,5 @@ a,a:hover{text-decoration:none}a{transition:color .15s}a:hover{color:var(--p424)
 @media (max-width:760px){.lang{position:absolute}}
 
 .next a{display:inline-block;border:1px solid var(--p424);padding:.6rem 1.75rem}.next a:hover{background:var(--ink);color:#fff}
+
+main p:not(.next){text-align:justify;hyphens:auto;-webkit-hyphens:auto}.i{text-align:left}
